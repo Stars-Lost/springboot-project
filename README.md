@@ -1,7 +1,7 @@
 # springboot-project
 
 #### 介绍
-springboot项目，流浪动物管理系统，课程设计，毕业设计
+springboot项目，流浪动物管理系统，springboot课程设计，毕业设计
 
 由于这里照片显示不全，本项目详情请访问 https://blog.csdn.net/qq_44755403/article/details/112748343
 
